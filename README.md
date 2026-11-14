@@ -27,4 +27,4 @@ vOTU catalogue and derived data: Zenodo DOI 10.5281/zenodo.24209548.
 To be updated upon publication.
 
 ## Contact
-GitHub issues, or the corresponding author.
+For questions about these scripts, please open an issue on this repository or contact the corresponding author.
